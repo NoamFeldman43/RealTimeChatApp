@@ -48,3 +48,6 @@ npm (מנהל חבילות של Node)
 
 
 בהצלחה🥇
+
+![Screenshot_48](https://github.com/user-attachments/assets/5b4cd174-d93c-4a1a-9e76-f8f0df5c5f1e)
+
