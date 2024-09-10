@@ -1,4 +1,4 @@
-# יישום צ'אט בזמן אמת
+# יישום צ'אט בזמן אמת🥇
 זהו יישום צ'אט בזמן אמת שנבנה באמצעות Node.js, React.js, Firebase ו-Socket.io. היישום מאפשר למשתמשים להתחבר עם Google, לשלוח ולקבל הודעות בזמן אמת ולראות ממשק צ'אט אינטראקטיבי.
 
 ## מאפיינים
